@@ -72,10 +72,8 @@ In this video, we take a closer look at what happens when we store those documen
 
 This video was made for the Datalogical Thinking course, specifically its Module called: 'A Quest for Meaning'. A large part of the video was directly copied from a video Wout originally made for a course called 'Technologies for Digital Libraries 1' at the University of Borås. Some voice over and slide images were added to contextualise the lecture in the Datalogical Thinking course. 
 
-To try out the experiment on your own, you can [download the `.zip` folder mentioned in the video here](https://github.com/WoutDLN/xml4dse-workshop/blob/main/assets/dataformats.zip). 
+To try out the experiment on your own, you can [download the `.zip` folder mentioned in the video here](https://github.com/WoutDLN/xml4dse-workshop/raw/refs/heads/main/assets/dataformats.zip) (`< 200 kb`).
 
 ### Text for Humans, Text for Computers.
-
-
 
 <iframe id="kaltura_player" src="https://api.kaltura.nordu.net/p/330/sp/33000/embedIframeJs/uiconf_id/23450308/partner_id/330?iframeembed=true&playerId=kaltura_player&entry_id=0_ou0h7gxz&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=0_vv0bo8lb" width="400" height="285" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Text for Humans and Text for Computers"></iframe>
