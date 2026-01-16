@@ -6,3 +6,31 @@ url: https://WoutDLN.github.io/xml4dse-workshop
 
 aux_links:
   Template Repository: https://github.com/WoutDLN/xml4dse-workshop
+
+# I tried to copy the GitHub Pages default settings as much as possible
+# See https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts
+callouts:
+  highlight:
+    color: purple
+  tip:
+    title: 💡 Tip
+    color: green
+  note:
+    title: ⓘ Note
+    color: blue
+  disclaimer:
+    title: ⚠ Disclaimer
+    color: blue
+  warning:
+    title: ⚠ Warning
+    color: yellow
+  important:
+    title: ⚠ Important
+    color: yellow
+  caution:
+    title: 🛑 Caution
+    color: red
+  danger:
+    title: 🛑 Danger
+    color: red
+
