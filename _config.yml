@@ -5,7 +5,10 @@ theme: just-the-docs
 url: https://WoutDLN.github.io/xml4dse-workshop
 
 aux_links:
-  Template Repository: https://github.com/WoutDLN/xml4dse-workshop
+  GitHub Repository: https://github.com/WoutDLN/xml4dse-workshop
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
 
 # I tried to copy the GitHub Pages default settings as much as possible
 # See https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#alerts
