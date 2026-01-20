@@ -4,7 +4,9 @@ layout: home
 nav_order: 1
 ---
 
-# About this workshop
+# XML for Digital Scholarly Editions: A TEI-XML Transcription Workshop
+
+## About this workshop
 
 These pages contain the training materials for a full-day modular and reusable workshop that teaches students basic technologies to transcribe documents in TEI-XML for use in a Digital Scholarly Editing, from scratch. It also showcases how XSLT can be used to transform a TEI-XML transcript into one or more web pages, and it may be expanded later to also include some basic HTML and CSS.
 

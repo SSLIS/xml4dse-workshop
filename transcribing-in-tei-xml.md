@@ -15,9 +15,9 @@ nav_order: 7
 
 ## Getting Started with oXygen {#tei-oxygen}
 
-Now that we know what markup is, what the basic rules of the XML syntax are, how a minimal TEI-XML document is structured, and that we've come across our first few TEI-XML tags, it's time to start transcribing our first document! And so we come to the (first) hands-on part of this workshop. 
+Now that we know [what markup is, what the basic rules of the XML syntax are, how a minimal TEI-XML document is structured, and that we've come across our first few TEI-XML tags](markup-xml-tei.html), it's time to start transcribing our first document! And so we come to the hands-on part of this workshop. 
 
-We will write our transcriptions in [a text-editor, preferably oXygen](before-we-begin.html). To help you on your way, I offer a quick tour of the software's main functionalities you'll need for the workshop. For people who participate in this demonstration live, I have made [an alternative video recording](transcribing-in-tei-xml-with-oxygen.html) available. [If you prefer to use Visual Studio Code instead of oXygen](before-we-begin.html#vsc), don't forget to [install the extension to enable on the fly TEI-XML validation](tei-xml-validation-with-vsc.html).
+We will write our transcriptions in [a text-editor, preferably oXygen](before-we-begin.html). To help you on your way, I offer a quick tour of the software's main functionalities you'll need for the workshop. For people who cannot participate in this demonstration live, I have made [an alternative video recording](transcribing-in-tei-xml-with-oxygen.html) available. [If you prefer to use Visual Studio Code instead of oXygen](before-we-begin.html#vsc), don't forget to [install the extension to enable on the fly TEI-XML validation](tei-xml-validation-with-vsc.html).
 
 ## The Case: Mary Shelley's *Frankenstein*
 
@@ -33,7 +33,7 @@ For this workshop, you will have some tools at your disposal. You will need:
 2. **The equivalent chapter in the published edition,** to help decipher some of Mary Shelley's handwriting. For your convenience, I have screengrabbed [the `EPUB` version of the public domain text digitized by Project Gutenberg](https://www.gutenberg.org/ebooks/84), which you can [read here as a PDF](/assets/materials/frankenstein-chapter-V.pdf).
 3. **An XML file to start transcribing in.** [As we saw earlier](#tei-oxygen), oXygen can generate one of those for us.
 4. One or more **references to TEI-XML tags** we can use. You can check out:
-    1. [the slides from the previous section](markup-ml-tei.html#teixml), which includes the basics;
+    1. [the slides from the previous section](markup-xml-tei.html#slides), which includes the basics;
     2. [the BDMP's encoding manual](https://bdmpmanual.uantwerpen.be), which includes some more useful tags and attributes for draft materials such as these; and
     3. [the complete TEI-guidelines](https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html) for pretty much anything else you might want to encode.
 
