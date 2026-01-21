@@ -30,7 +30,7 @@ Mary Shelley's contribution to the challenge contained the beginnings of what wo
 For this workshop, you will have some tools at your disposal. You will need:
 
 1. **A link to the manuscipt,** digitized by the Bodleilan Library. Specifically, we'll use: [MS. Abinger c. 56, Notebook A, folio 21r](https://digital.bodleian.ox.ac.uk/objects/53fd0f29-d482-46e1-aa9d-37829b49987d/surfaces/5359a811-63e4-49d7-8cc1-e6b4308a7969/).
-2. **The equivalent chapter in the published edition,** to help decipher some of Mary Shelley's handwriting. For your convenience, I have screengrabbed [the `EPUB` version of the public domain text digitized by Project Gutenberg](https://www.gutenberg.org/ebooks/84), which you can [read here as a PDF](/assets/materials/frankenstein-chapter-V.pdf).
+2. **The equivalent chapter in the published edition,** to help decipher some of Mary Shelley's handwriting. For your convenience, I have screengrabbed [the `EPUB` version of the public domain text digitized by Project Gutenberg](https://www.gutenberg.org/ebooks/84), which you can [read here as a PDF](assets/materials/frankenstein-chapter-V.pdf).
 3. **An XML file to start transcribing in.** [As we saw earlier](#tei-oxygen), oXygen can generate one of those for us.
 4. One or more **references to TEI-XML tags** we can use. You can check out:
     1. [the slides from the previous section](markup-xml-tei.html#slides), which includes the basics;
