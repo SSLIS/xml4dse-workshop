@@ -1,0 +1,20 @@
+{
+    "title": "XML for Digital Scholarly Editions. A TEI-XML Transcription Workshop",
+    "creators": [
+        {
+            "name": "Dillen, Wout",
+	        "orcid": "0000-0002-7862-2403",
+            "affiliation": "University of Borås"
+        }
+    ],
+    "keywords": [
+        "textual scholarship",
+        "scholarly editing",
+        "digital scholarly editing",
+        "workshop",
+        "training materials",
+        "TEI-XML",
+        "transcription"
+    ],
+    "license": "cc-by"
+}
