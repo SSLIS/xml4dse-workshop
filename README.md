@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19439075.svg)](https://doi.org/10.5281/zenodo.19439075) 
+![GitHub](https://img.shields.io/github/license/WoutDLN/xml4dse-workshop)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/SSLIS/xml4dse-workshop/pages.yml)
+
 ## About this workshop
 
 This repository hosts the training materials for a full-day modular and reusable workshop that teaches students basic technologies to transcribe documents in TEI-XML for use in a Digital Scholarly Editing, from scratch. It also showcases how XSLT can be used to transform a TEI-XML transcript into one or more web pages, and it may be expanded later to also include some basic HTML and CSS.
